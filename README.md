@@ -1,2 +1,3 @@
 # Medical-Shop-Transaction-System
-store the record of a medicines in the medical in systamatic way...in this project we have add,delete,update, the record of medicine and in this project we have we have seen dirctly the expired medicines in particular way.. in this project we can search any medicine by its name or id
+The system aims to automate the manual record keeping process for medical stores to maintain product stock, accounting, and customer information. Key features include inventory management, sales tracking, accounting, and reporting.
+It Stores the records of medicines in systamatic way...in this project we have add,delete,update, the record of medicine and in this project we have seen directly the expired medicines in particular way.. in this project we can search any medicine by its name or id
